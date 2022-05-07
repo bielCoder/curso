@@ -1,0 +1,1 @@
+	*Aqui serão apresentadas todas as atividades realizadas na faculdade de Analise e Desenvolvimento de Sistemas,apenas para teste de conhecimentos.*
